@@ -1,0 +1,79 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: black;
+}
+
+#navbar {
+  font-family: "Apple Chancery", cursive;
+  color: lime;
+  text-shadow: 0px 2px 20px;
+  transition: 0.2s all ease-in;
+  width: 100%;
+}
+
+#navbar:hover {
+  color: aqua;
+}
+
+.dropdown-item {
+  cursor: pointer;
+}
+
+button {
+  margin: 5px 5px 5px 5px;
+}
+
+@keyframes backgroundChange {
+  from {
+    background-color: yellow;
+  }
+  to {
+    background-color: red;
+  }
+}
+
+#source {
+  background-image: url('./Components/Icons/origin.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#target {
+  background-image: url('./Components/Icons/arrival.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+#table {
+  border: 1px solid red;
+  border-collapse: collapse;
+  line-height: 14px;
+}
+
+.table-responsive {
+  margin: auto;
+}
+
+.container-fluid {
+  color: white;
+  text-align: center;
+}
+
+#table-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.table-data {
+  padding: 0;
+  margin: 0;
+  width: 25px;
+  height: 25px;
+  border: 1px solid skyblue;/*rgb(0,0,255)*/;
+  transition: 0.1s all ease-in;
+  min-width: 15px;
+}
