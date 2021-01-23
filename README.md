@@ -1,5 +1,7 @@
-# Path In A Maze Visualizer
+# Path Finder Visualizer
 This is a web page which helps in visualizing Breadth First Search and Depth First Search Algorithms by searching for a target inside a maze. The maze and the algorithms are visualized using HTML `<table>`. 
+
+LINK TO THE PROJECT :- https://sudipto-ghosh786.github.io/Path-Finder/
 
 ###### Breadth First Search	
 Breadth-first search is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root, and explores all of the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level. https://en.wikipedia.org/wiki/Breadth-first_search
