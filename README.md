@@ -11,7 +11,7 @@ Depth-first search is an algorithm for traversing or searching tree or graph dat
 
 
 ###### Maze Gnereation
-Recursive Division is a maze generation algorithm. At each step, the algorithm bisects a area horizontally or vertically and then leaves a random position in the bisection open so that the divided regions still remains connected.
+At each step, the algorithm bisects a area horizontally or vertically and then leaves a random position in the bisection open so that the divided regions still remains connected.
 
 
 # Demo
